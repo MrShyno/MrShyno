@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m working in KacharIt<br>⚡ I love Js & Laravel<br>🌱 I’m currently learning React
 
 
