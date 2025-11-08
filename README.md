@@ -1,5 +1,10 @@
 # About Me:
-🔭 I’m working at KacharIt<br>⚡ I’m passionate about JavaScript & Laravel<br>🌱 Currently, I’m exploring ChatGPT APIs and diving deeper into AI integrations.<br>🎓 I’m studying Computer Networks at university and have been working with Laravel modularly for the past four years.
+Hey there! 👋 I'm Shayan — a developer who loves turning ideas into functional, beautiful applications.<br>
+💼 Working at **Pasavan.com**, focusing on **React** frontends and **.NET** backends.<br>
+🌍 Learning **Blockchain programming** to explore the future of decentralized tech.<br>
+💡 Passionate about **JavaScript**, **Laravel**, and clean, modular architecture.<br>
+🎓 I’m a **software engineering** student who believes in continuous learning and creative problem-solving.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrshyno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shayan-davoodpour-b264aa24b) 
