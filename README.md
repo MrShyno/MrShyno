@@ -1,7 +1,5 @@
 # About Me:
 Hey there! 👋 I'm Shayan — a developer who loves turning ideas into functional, beautiful applications.<br>
-💼 Working at **Pasavan.com**, focusing on **React** frontends and **.NET** backends.<br>
-🌍 Learning **Blockchain programming** to explore the future of decentralized tech.<br>
 💡 Passionate about **JavaScript**, **Laravel**, and clean, modular architecture.<br>
 🎓 I’m a **software engineering** student who believes in continuous learning and creative problem-solving.
 
