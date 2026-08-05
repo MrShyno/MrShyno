@@ -1,6 +1,6 @@
 # About Me:
 Hey there! 👋 I'm Shayan — a developer who loves turning ideas into functional, beautiful applications.<br>
-💡 Passionate about **JavaScript**, **Laravel**, and clean, modular architecture.<br>
+💡 Passionate about **JavaScript**, **Laravel**, **Asp.Net**, and clean, modular architecture.<br>
 🎓 I’m a **software engineering** student who believes in continuous learning and creative problem-solving.
 
 
